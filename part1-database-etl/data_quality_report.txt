@@ -1,0 +1,18 @@
+=== DATA QUALITY REPORT ===
+
+Customers Records Processed: 25
+Duplicates Removed: 0
+Missing Emails Dropped: 0
+Records Loaded: 25
+
+Products Records Processed: 20
+Duplicates Removed: 0
+Missing Prices Dropped: 0
+Stock Defaults Applied: 0
+
+Records Loaded: 20
+
+Sales Records Processed: 40
+Duplicates Removed: 0
+Invalid Foreign Keys Dropped: 0
+Records Loaded: 40
